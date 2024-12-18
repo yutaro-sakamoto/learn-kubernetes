@@ -1,0 +1,1 @@
+eksctl delete cluster --name k8s --region ap-northeast-1

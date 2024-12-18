@@ -1,0 +1,1 @@
+eksctl create cluster --name k8s --region ap-northeast-1 --fargate
